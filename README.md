@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Matheus Campos Banner" width="100%" />
+  <img src="./assets/imagem-readme.jpg" alt="Matheus Campos Banner" width="100%" />
   <br/><br/>
   
   <a href="https://git.io/typing-svg">
@@ -26,14 +26,14 @@
 
 <br/>
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 Olá! Sou **Matheus Campos**, desenvolvedor web focado em criar experiências digitais modernas, intuitivas e de alta performance. 
 
 - 🎓 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 💼 **Experiência Profissional:** Atuação com **Suporte Técnico em Software House**, vivenciando o dia a dia de sistemas reais em produção. Foco em análise e resolução de incidentes complexos na raiz, suporte a aplicações web e garantia de estabilidade e disponibilidade.
-- 🚀 **Especialidade:** Criação de plataformas SaaS, aplicações ricas e interfaces responsivas utilizando **React, Next.js, TypeScript e Tailwind CSS**.
-- 💡 **Filosofia:** Acredito na união entre design intencional e arquitetura de software sólida — construir soluções que não apenas funcionem, mas que façam total sentido para quem usa.
+- 🚀 **Especialidade:** Atualmente foco em Front-End, utilizando principalmente **React, Next.js, TypeScript e Tailwind CSS**, criando interfaces modernas, responsivas e funcionais.
+
 - 📍 **Localização:** Cuiabá, Mato Grosso - Brasil 🇧🇷
 
 <br/>
