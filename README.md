@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,26&height=180&section=header&text=Matheus%20Campos&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Front-End%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descSize=16&descAlignY=58&descAlign=50" width="100%"/>
-  <br/>
+  <img src="./assets/banner.svg" alt="Matheus Campos Banner" width="100%" />
+  <br/><br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;React+%7C+Next.js+%7C+TypeScript;Interfaces+modernas%2C+fluidas+e+perform%C3%A1ticas;Design+intencional+com+engenharia+robusta" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Desenvolvedor+Front-End;React+%7C+Next.js+%7C+TypeScript;SaaS+com+IA+%E2%80%A2+E-commerce+%E2%80%A2+Web+Apps;Interfaces+modernas%2C+fluidas+e+perform%C3%A1ticas;Design+intencional+com+engenharia+robusta" alt="Typing SVG" />
   </a>
   <br/><br/>
 
@@ -31,9 +31,9 @@
 Olá! Sou **Matheus Campos**, desenvolvedor web focado em criar experiências digitais modernas, intuitivas e de alta performance. 
 
 - 🎓 **Formação:** Graduado em **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 💼 **Experiência Profissional:** Atuação com **Suporte Técnico em Software House**, vivenciando o dia a dia de sistemas reais em produção. Foco em análise e resolução de incidentes complexos na raiz, suporte a aplicações web e garantia de estabilidade.
-- 🚀 **Especialidade:** Criação de interfaces responsivas, acessíveis e focadas em conversão utilizando **React, Next.js, TypeScript e Tailwind CSS**.
-- 💡 **Filosofia:** Acredito na união entre design intencional e arquitetura de software sólida — construir soluções que não apenas funcionem, mas que façam total sentido para o usuário final.
+- 💼 **Experiência Profissional:** Atuação com **Suporte Técnico em Software House**, vivenciando o dia a dia de sistemas reais em produção. Foco em análise e resolução de incidentes complexos na raiz, suporte a aplicações web e garantia de estabilidade e disponibilidade.
+- 🚀 **Especialidade:** Criação de plataformas SaaS, aplicações ricas e interfaces responsivas utilizando **React, Next.js, TypeScript e Tailwind CSS**.
+- 💡 **Filosofia:** Acredito na união entre design intencional e arquitetura de software sólida — construir soluções que não apenas funcionem, mas que façam total sentido para quem usa.
 - 📍 **Localização:** Cuiabá, Mato Grosso - Brasil 🇧🇷
 
 <br/>
@@ -42,46 +42,95 @@ Olá! Sou **Matheus Campos**, desenvolvedor web focado em criar experiências di
 
 ### 💻 Front-End & UI
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,sass,html,css&theme=dark" alt="Front-End Stack" />
+  </a>
 </p>
 
 ### ⚙️ Back-End & Banco de Dados
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,supabase,python&theme=dark" alt="Back-End Stack" />
+  </a>
 </p>
 
 ### 🧰 Ferramentas & Workflow
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vite,vercel,vscode,figma&theme=dark" alt="Ferramentas e Workflow" />
+  </a>
 </p>
 
 <br/>
 
-## 🚀 Projetos em Destaque
+## 🌟 Projetos em Grande Destaque
 
-| Projeto | Descrição | Tecnologias | Live Demo |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ ATRION — Plataforma SaaS com IA</h3>
+      <p align="center">
+        <b>Currículos Profissionais com IA + Auditoria de LinkedIn</b>
+      </p>
+      <p>
+        Plataforma SaaS de alta conversão projetada para criar e adaptar currículos compatíveis com sistemas <b>ATS</b>. Inclui cálculo de score de qualidade em tempo real, auditoria completa de perfil do LinkedIn, múltiplos templates personalizáveis, planos Free/Pro/Max e checkout integrado.
+      </p>
+      <p>
+        <b>Tecnologias:</b><br/>
+        <code>Next.js (App Router)</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Clerk Auth</code> <code>Stripe</code> <code>AI Integration</code>
+      </p>
+      <p align="center">
+        <a href="https://aatrion.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Acessar_Aplicação-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Live Demo ATRION" />
+        </a>
+        <a href="https://github.com/TheusCampos/AATRION" target="_blank">
+          <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo ATRION" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🪵 Catálogo Virtual — Serralheria Metal Arts</h3>
+      <p align="center">
+        <b>E-commerce de Móveis em Madeira Maciça & Serralheria</b>
+      </p>
+      <p>
+        Catálogo interativo com experiência de compra refinada para móveis rústicos e sob medida. Possui vitrine dinâmica, filtros avançados por categorias de madeira nobre (Cumaru, Ipê, Peroba Rosa), lista de favoritos, carrinho de compras e checkout direto via WhatsApp.
+      </p>
+      <p>
+        <b>Tecnologias:</b><br/>
+        <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Vite</code> <code>Supabase (DB & Storage)</code> <code>Lucide Icons</code>
+      </p>
+      <p align="center">
+        <a href="https://web-catalogo-metal-arts.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Acessar_Catálogo-000000?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Live Demo Catálogo" />
+        </a>
+        <a href="https://github.com/TheusCampos/Web-catalogo-metal-arts" target="_blank">
+          <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Catálogo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🚀 Outros Projetos Selecionados
+
+| Projeto | Descrição | Tecnologias | Acesso |
 | :--- | :--- | :--- | :---: |
-| 💳 **Controle Financeiro SaaS** | Sistema completo de gestão financeira com autenticação, relatórios mensais e gráficos analíticos. | `React` `Tailwind CSS` `Vite` `Zustand` `Supabase` | [Acessar](https://controle-financeiro-ia-delta.vercel.app) |
-| 🎬 **Movies App** | Aplicação web com integração de API para consulta de catálogo, detalhes e sinopses em tempo real. | `React` `TypeScript` `SASS` `API REST` | [Acessar](https://site-filmes-com-react-e-type-script.vercel.app) |
-| 💼 **Portfólio Pessoal** | Meu portfólio oficial desenvolvido com animações fluidas via GSAP e layout moderno e minimalista. | `React` `TypeScript` `Tailwind CSS` `GSAP` | [Acessar](https://portifolio-matheus-dev.vercel.app/) |
-| 🏢 **Gênesis Tecnologia** | Site institucional corporativo com apresentação de soluções corporativas e identidade visual limpa. | `HTML5` `CSS3` `JavaScript` `API` | [Acessar](https://site-institucional-genesis-tecnolog.vercel.app) |
-| 🏎️ **Landing Page Formula 1** | Interface dinâmica e interativa com integração de dados das escuderias e pilotos de F1. | `HTML5` `CSS3` `JavaScript` `API` | [Acessar](https://landingpage-f1.vercel.app) |
+| 💳 **Controle Financeiro SaaS** | Sistema completo de gestão financeira com autenticação, relatórios mensais e gráficos analíticos. | `React` `Tailwind` `Vite` `Zustand` `Supabase` | [Live Demo](https://controle-financeiro-ia-delta.vercel.app) |
+| 🎬 **Movies App** | Aplicação web com integração de API para consulta de catálogo, detalhes e sinopses em tempo real. | `React` `TypeScript` `SASS` `API REST` | [Live Demo](https://site-filmes-com-react-e-type-script.vercel.app) |
+| 💼 **Portfólio Pessoal** | Meu portfólio oficial desenvolvido com animações fluidas via GSAP e layout moderno e minimalista. | `React` `TypeScript` `Tailwind CSS` `GSAP` | [Live Demo](https://portifolio-matheus-dev.vercel.app/) |
+| 🏢 **Gênesis Tecnologia** | Site institucional corporativo com apresentação de soluções tecnológicas e identidade limpa. | `HTML5` `CSS3` `JavaScript` `API` | [Live Demo](https://site-institucional-genesis-tecnolog.vercel.app) |
+| 🏎️ **Landing Page Formula 1** | Interface dinâmica e interativa com integração de dados das escuderias e pilotos de F1. | `HTML5` `CSS3` `JavaScript` `API` | [Live Demo](https://landingpage-f1.vercel.app) |
+
+<br/>
+
+## 📈 Gráfico de Atividades & Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheusCampos&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividades do GitHub" />
+</div>
 
 <br/>
 
@@ -92,6 +141,8 @@ Olá! Sou **Matheus Campos**, desenvolvedor web focado em criar experiências di
   &nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheusCampos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=TheusCampos&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
