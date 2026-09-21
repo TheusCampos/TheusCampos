@@ -126,14 +126,6 @@ Olá! Sou **Matheus Campos**, desenvolvedor web focado em criar experiências di
 
 <br/>
 
-## 📈 Gráfico de Atividades & Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph-ashy.vercel.app/graph?username=TheusCampos&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividades do GitHub" />
-</div>
-
-<br/>
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
