@@ -129,7 +129,7 @@ Olá! Sou **Matheus Campos**, desenvolvedor web focado em criar experiências di
 ## 📈 Gráfico de Atividades & Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheusCampos&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividades do GitHub" />
+  <img src="https://github-readme-activity-graph-ashy.vercel.app/graph?username=TheusCampos&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Atividades do GitHub" />
 </div>
 
 <br/>
@@ -137,9 +137,9 @@ Olá! Sou **Matheus Campos**, desenvolvedor web focado em criar experiências di
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TheusCampos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheusCampos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" />
   &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheusCampos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheusCampos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
 </div>
 
 <br/>
