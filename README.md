@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/imagem-readme.jpg" alt="Matheus Campos Banner" width="100%" />
+  <img src="./assets/imagem-readme.jpg" alt="Matheus Campos Banner" width="70%" />
   <br/><br/>
   
   <a href="https://git.io/typing-svg">
